@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @suzhesheng50.
+- 👀 I’m interested in Java enthusiast focusing on Android development.
+- 🌱 I’m currently keen to craft user-friendly mobile apps that make a difference.
